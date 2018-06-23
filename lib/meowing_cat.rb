@@ -6,4 +6,3 @@ class Cat
     cat.meow
     puts "meow!"
 end
-
