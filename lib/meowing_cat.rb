@@ -5,4 +5,5 @@ class Cat
   def meow(cat)
     cat.meow
     puts "meow!"
+  end
 end
