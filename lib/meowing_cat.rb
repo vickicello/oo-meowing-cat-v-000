@@ -4,5 +4,4 @@ class Cat
 
   Cat.meow
     puts "meow!"
-  end
 end
